@@ -9,6 +9,10 @@
   /* padding-bottom: 2rem; */
 }
 
+.body{
+    margin: 0;
+}
+
 .title {
   /* padding: 1rem; */
   font-weight: 600;
@@ -17,7 +21,7 @@
 }
 
 .title>img{
-    width: 600px;
+    width: 100%;
 }
 
 .input {
@@ -142,7 +146,7 @@
     }
 
     .title>img{
-        width: 400px;
+        width:100%;
     }
 
     body{
